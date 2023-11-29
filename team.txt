@@ -1,3 +1,4 @@
 tayfa:TAYFACE20
 birlik:GTTRBIRLIK4
 ox:OXLIVE6
+ju:ataturk
