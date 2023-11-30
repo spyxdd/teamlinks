@@ -1,4 +1,5 @@
 tayfa:TAYFACE20
-birlik:GTTRBIRLIK4
-ox:OXLIVE6
-ju:ataturk
+birlik:GTTRBIRLIK6
+ox:OXLIVE11
+ju:JURATA
+yon:YONADC
