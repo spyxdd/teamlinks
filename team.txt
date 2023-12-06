@@ -1,8 +1,8 @@
-tayfa:TAYFACE20
-birlik:GTTRBIRLIK6
-ox:OXLIVE11
-ju:JURATA
-yon:YONADC
+tayfa:TAYFACAK3
+birlik:birlikhop1
+ox:OXBOT6
+ju:JUEROPA
+yon:YONTOP1
 octa:OCTADAV
 rudy:RUDGT45
 cong:CONGJAG
